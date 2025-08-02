@@ -755,9 +755,14 @@ int main(){
 如有问题请联系本项目的发布者`PhantomPhoenix`, 他的邮箱地址是: `logic_1729@sjtu.edu.cn`
     
 除此之外，对于文中引用的参考资料来源进行列出，有兴趣的同学可以看看： 
+
 [1]  https://csguide.cn/cpp/memory/what_is_memory.html 内存管理一节
+
 [2]  https://zclll.com/index.php/cpp/value_category.html
+
 [3]  ACMOJ 2640与2641,Rust中对于底层的处理思想更有助于对C++的理解，详情可以看:
     https://rustwiki.org/zh-CN/book/ch15-00-smart-pointers.html
+    
 [4]  https://zh.cppreference.com/w/cpp/memory/shared_ptr
+
 [5]  https://zh.cppreference.com/w/cpp/memory/shared_ptr
