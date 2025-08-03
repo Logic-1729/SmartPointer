@@ -743,7 +743,7 @@ int main(){
 
 对于 Code Review 部分，占 10 `pts`.
 
-本项目的得分上限是 110 `pts`，不会溢出。
+本项目的得分上限是 100 `pts`，不会溢出。
     
 ## Acknowledgement
     
@@ -765,3 +765,4 @@ int main(){
 [4] <https://zh.cppreference.com/w/cpp/memory/shared_ptr>
 
 [5] <https://zh.cppreference.com/w/cpp/memory/shared_ptr>
+
