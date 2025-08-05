@@ -2,7 +2,7 @@
 
 > SJTU CS1958-01 2025Fall 第二次大作业
 
-请先阅读[智能指针那些事儿](https://notes.sjtu.edu.cn/feladvRRTXSjGqzARi9Kxg?both)
+请先阅读[智能指针那些事儿](https://notes.sjtu.edu.cn/feladvRRTXSjGqzARi9Kxg?both),:)
     
 # `Unique_ptr`
     
@@ -360,5 +360,6 @@
 [4] <https://zh.cppreference.com/w/cpp/memory/shared_ptr>
 
 [5] <https://zh.cppreference.com/w/cpp/memory/shared_ptr>
+
 
 
