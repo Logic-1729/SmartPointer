@@ -346,7 +346,7 @@
 
 感谢 2022 级汪畋宇学长创建了这个项目。
 
-感谢 2025 级黄捷航修正了 `READEME.md`。
+感谢 2025 级黄捷航修正了 `README.md`。
 
 如有问题请联系本项目的发布者 `PhantomPhoenix`, 他的邮箱地址是: `logic_1729@sjtu.edu.cn`
     
@@ -362,6 +362,7 @@
 [4] <https://zh.cppreference.com/w/cpp/memory/shared_ptr>
 
 [5] <https://zh.cppreference.com/w/cpp/memory/shared_ptr>
+
 
 
 
