@@ -10,7 +10,7 @@ class UniquePtr {
     public:
         //Constructors
         UniquePtr();// Default constructor
-        explicit UniquePtr(T* p) {}// Constructor from raw pointer
+        explicit UniquePtr(T* p);// Constructor from raw pointer
         UniquePtr(UniquePtr& other) = delete; // Copy constructor is deleted
         UniquePtr(UniquePtr&& other); // Move constructor
 
@@ -35,5 +35,6 @@ template <typename T, typename... Args>
 static UniquePtr<T> make_unique(Args&&... args) {
     return UniquePtr<T>(new T(std::forward<Args>(args)...));
 }
+
 
 #endif //UNIQUE_PTR
