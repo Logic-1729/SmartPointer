@@ -256,7 +256,7 @@
     
 1. 在完成本次大作业时，请对三个智能指针全部有所了解之后再开始设计，以避免不必要的局部修改或整体重构 (尤其是 `shared_ptr` 与 `weak_ptr`)
    
-2. 注意函数实现中的细节，譬如 `const`，`noexpect` 等，这些都有可能成为 `Code Review` 中考察的对象。
+2. 注意函数实现中的细节，譬如 `const`，`noexpect`,`explicit` 等，这些都需要自己补充，这些都有可能成为 `Code Review` 中考察的对象。
     
 # Bonus
     
@@ -349,6 +349,7 @@
 感谢 2025 级黄捷航修正了 `README.md`。
 
 如有问题请联系本项目的发布者 `PhantomPhoenix`, 他的邮箱地址是: `logic_1729@sjtu.edu.cn`
+
 
 
 
